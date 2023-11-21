@@ -71,7 +71,7 @@ a set of open source software licenses identified as a result of following an ap
 
 ### 2.3 - OpenChain conformant
 
-a program that satisfies all the requirements of this document
+a program that satisfies all the requirements of this document as evidenced by documentation produced at the conclusion of each annual (12 month) review of the program.
 
 ## 2.4 - open source
 
